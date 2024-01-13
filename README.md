@@ -1,0 +1,2 @@
+
+This project aims to create a scalable and flexible system by embracing the modern software development paradigm of microservices architecture. Apache and Mango technologies have been utilized in the project, integrating automatic scaling features and successfully implementing a microservices architecture.
